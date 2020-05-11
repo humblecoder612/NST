@@ -14,14 +14,14 @@ VGG19
 ```
 ## Painting to be inspired from
  
-![](https://github.com/humblecoder612/GAN_REPO/blob/master/style_best.jpg)
+![](https://github.com/humblecoder612/NST/blob/master/style_best.jpg)
 ## content(Art to be transferred on)
 
-![](https://github.com/humblecoder612/GAN_REPO/blob/master/content1.jpg)
+![](https://github.com/humblecoder612/NSTblob/master/content1.jpg)
 
 ## Result
 
-![](https://github.com/humblecoder612/GAN_REPO/blob/master/result.png)
+![](https://github.com/humblecoder612/NST/blob/master/result.png)
 
 
 
