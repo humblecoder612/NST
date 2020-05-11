@@ -12,7 +12,7 @@ Matplot
 VGG19
 
 ```
-## Painting ( Art-style would tranferred from)
+## Painting ( Art-style)
 
 <img src="https://github.com/humblecoder612/NST/blob/master/style_best.jpg" width="400" height="400" />
 
