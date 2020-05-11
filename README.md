@@ -13,8 +13,9 @@ VGG19
 
 ```
 ## Painting ( Art-style would tranferred from)
- 
-![](https://github.com/humblecoder612/NST/blob/master/style_best.jpg = 250x250)
+
+<img src="https://github.com/humblecoder612/NST/blob/master/style_best.jpg" width="200" height="200" />
+
 ## Content(Art to be applied on)
 
 ![](https://github.com/humblecoder612/NST/blob/master/content1.jpg)
