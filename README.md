@@ -18,11 +18,11 @@ VGG19
 
 ## Content(Art to be applied on)
 
-<img src="https://github.com/humblecoder612/NST/blob/master/content.jpg" width="400" height="400" />
+<img src="https://github.com/humblecoder612/NST/blob/master/content1.jpg" width="400" height="400" />
 
 ## Result
 
-<img src="https://github.com/humblecoder612/NST/blob/master/result.png" width="400" height="400" />
+<img src="https://github.com/humblecoder612/NST/blob/master/result.png" />
 
 
 
