@@ -12,10 +12,10 @@ Matplot
 VGG19
 
 ```
-## Painting to be inspired from
+## Painting ( Art-style would tranferred from)
  
-![](https://github.com/humblecoder612/NST/blob/master/style_best.jpg)
-## content(Art to be transferred on)
+![](https://github.com/humblecoder612/NST/blob/master/style_best.jpg = 250x250)
+## Content(Art to be applied on)
 
 ![](https://github.com/humblecoder612/NST/blob/master/content1.jpg)
 
