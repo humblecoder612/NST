@@ -17,7 +17,7 @@ VGG19
 ![](https://github.com/humblecoder612/NST/blob/master/style_best.jpg)
 ## content(Art to be transferred on)
 
-![](https://github.com/humblecoder612/NSTblob/master/content1.jpg)
+![](https://github.com/humblecoder612/NST/blob/master/content1.jpg)
 
 ## Result
 
