@@ -14,15 +14,15 @@ VGG19
 ```
 ## Painting ( Art-style would tranferred from)
 
-<img src="https://github.com/humblecoder612/NST/blob/master/style_best.jpg" width="200" height="200" />
+<img src="https://github.com/humblecoder612/NST/blob/master/style_best.jpg" width="400" height="400" />
 
 ## Content(Art to be applied on)
 
-![](https://github.com/humblecoder612/NST/blob/master/content1.jpg)
+<img src="https://github.com/humblecoder612/NST/blob/master/content.jpg" width="400" height="400" />
 
 ## Result
 
-![](https://github.com/humblecoder612/NST/blob/master/result.png)
+<img src="https://github.com/humblecoder612/NST/blob/master/result.png" width="400" height="400" />
 
 
 
